@@ -7,3 +7,8 @@ __mtime__ = 2018/7/10 9:41
 __version__ = python3.6
 
 """
+configs = {
+    'db': {
+        'host': '127.0.0.1'
+    }
+}

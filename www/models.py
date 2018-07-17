@@ -7,7 +7,8 @@ __mtime__ = 2018/7/8 16:12
 __version__ = python3.6
 
 """
-import time, uuid
+import time
+import uuid
 
 from orm import Model, StringField, BooleanField, FloatField, TextField
 
